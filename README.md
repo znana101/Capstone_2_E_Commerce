@@ -18,6 +18,8 @@ This project developed a a predictive classification model for e-commerce using 
 ![classification report](https://github.com/user-attachments/assets/fd8ad3b0-7bfb-4ee3-ab4d-4ed8e4e7abac)
 ### Accuracy Graph
 ![accuracy graph](https://github.com/user-attachments/assets/bd593dbd-abf7-41e8-b2fd-9a122b72fe10)
+### Loss Graph
+![loss graph](https://github.com/user-attachments/assets/9cde74a2-2be3-4ecc-946b-adfe2c0040b8)
 
 ## Discussion
 1) The NLP model uses tokenization, padding & truncating and embedding to process the text data. 
