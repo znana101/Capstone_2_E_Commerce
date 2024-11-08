@@ -20,6 +20,7 @@ This project developed a a predictive classification model for e-commerce using 
 2) The model uses LSTM and obtains an accuracy of 97.1% which is more than 85%.
 3) The F1 score of this model is 0.99 which is above 0.7.  
 4) The model was saved in .h5 format while the tokenizer is saved using .json.
+
 Conclusion: The model is able to predict and categorize the unseen products into 4 categories.
 ## Credits
 Kaggle - https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
