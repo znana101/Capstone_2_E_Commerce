@@ -1,4 +1,4 @@
-![tensorboard_training_loss](https://github.com/user-attachments/assets/91588b42-654c-46c3-abc1-fbe1293f96d7)# Capstone_2_E_Commerce
+# Capstone_2_E_Commerce
 In this project, we tackle the challenge of automating product categorization for e-commerce platforms. Text documents, especially product descriptions, contain valuable information that can influence market trends and investment flows. However, manually categorizing products into specific types is time-consuming and resource-intensive.
 
 This project developed a a predictive classification model for e-commerce using a deep learning approach with a Bi-LSTM architecture in Natural Language Processing (NLP) to automatically classify product descriptions into four distinct categories; 'Electronics', 'Household', 'Books' and 'Clothing & Accessories'
